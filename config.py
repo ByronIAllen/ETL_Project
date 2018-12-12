@@ -1,1 +1,1 @@
-mypass = "1993Jake&Abby"
+mypass = "[insert password]"
