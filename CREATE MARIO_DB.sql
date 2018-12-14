@@ -1,0 +1,3 @@
+#DROP DATABASE mario_db;
+
+CREATE DATABASE mario_db;
